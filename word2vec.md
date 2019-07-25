@@ -44,7 +44,7 @@
 ![skip](skip.jpg)
 ### .2.2. CBOW
 #### 一般情形
-！[cbow](cbow.jpg)
+![cbow](cbow.jpg)
 ### 训练trick
 
 ---
